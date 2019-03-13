@@ -1,6 +1,6 @@
 owner=449339893626306563
 prefix=Y
-game= Yousef
+game=4play || Calin Server
 stayinchannel=true
 songinstatus=false
 token=NTU1NDU1NzkyMjc1MjU5Mzk1.D2rdRQ.WQ2E3s3RrqnNsk3uUuPo6QLMS2M
