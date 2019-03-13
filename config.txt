@@ -1,5 +1,5 @@
 owner=449339893626306563
-prefix=Y
+prefix=4
 game=4play || Calin Server
 stayinchannel=true
 songinstatus=false
