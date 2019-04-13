@@ -1,6 +1,6 @@
 owner=449339893626306563
 prefix=4
-game=4play || Calin Server
+game=Sarr.
 stayinchannel=true
 songinstatus=false
 token=NTU1NDU1NzkyMjc1MjU5Mzk1.D2rdRQ.WQ2E3s3RrqnNsk3uUuPo6QLMS2M
